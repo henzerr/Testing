@@ -1,0 +1,280 @@
+Pure waterfall project management
+
+Waterfall methodology comes from 
+Requirements
+Design
+Development
+Integration
+Testing
+AndDeployment
+
+
+The seeds for agile techniques have been around for long time
+In fact agile values are simply a codification of common-sense
+
+
+Agile Manifesto
+
+A statement of values for successful software development
+
+Manifesto for Agile software development
+
+How agile projects work
+
+Unfetted transparency
+Frequent inspection
+Immediate adaptation
+
+Agile project is broken into iterations called Sprints
+
+THe manifesto focuses on
+People
+Communications
+The product
+Flexibility
+
+
+Detailed as
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding ot change over following a plan
+
+
+Agile principles
+Hightest priority is to satisfy customer
+Adapt to requirement changes
+Deliver working software frequently
+Interaction between client and developer
+Trust motivated individuals
+Have face-to-face communication
+working software is the primary measure of progress
+Agile promotes sustainable development. All parties must maintain a constant pace
+technical excellence and good degisn enhances agility
+minimize the ammount of work not done
+self-organizing teams comes with best architectures, requirementand designs
+At regular intervals, team reflecs on home to become more effective
+
+
+Agiles 4 disctince groups
+Customer satisfation
+Quality 
+Teamwork
+Prjoect management
+
+
+Agile principles of Quality
+Examples  of technical excellence include establishing coding standardds, using service-oriented architectures
+implementing automated testing and building for furture changes
+
+Agile principles of teamwork
+
+place the development team in the same location - this is called collocation
+prefer face to face over emails
+
+
+Agile princilples of Project management
+
+Agile practices encourage a steady pace of development that is prodcutive and healthy
+In extremee programming the maximum workweek is 40 hours and the prefereed work week is 35 hours
+Agile projects are sustainable and more productive especially long term
+
+Agile project managermnt tasks
+
+Create a product backlog - a list of requirements by priority
+
+The development team meets for 15 minutes at the start of each day to coordiante and synchronize that days work
+wortk within sprints and identify only specific tasks for active sprints
+support the development team by removing impediments and distractions
+
+
+Platinum principles
+
+Resist formality
+Think and acts as a team
+Visualize rather than write
+
+
+Pair programming and shadowing reaises p;roductivity
+
+
+Changes as a Result of agile values
+Aglie approaches changed attitude toward project maangement processe
+
+Agile approaches xhanged attitude towards knowledge workers
+Agile approaches changeed the relationship between business and IT groups
+Agile approaches corrected attitdues toward change
+
+chapter 3
+
+Why Being Agile works better
+
+
+Two main factors 
+project sucess and stakeholder satisfaction
+
+
+Evaluating Agile benefits
+
+The software development is done upside down. using agile methods, you develop , test and launc small groupsof product requirement
+in short iterative cyckes, known as iterations, or sprins, Testing occurs during each iterations
+To find defects the development team looks for a weed in a flowerpot , rather than in a cornfield
+
+Product owner , scrum master and sprint are terms from scrum, a popular agile framework for organizing work and 
+exposing project projgress
+scrum refers to a rugy huddle,
+prodcut owner - Is a project team member who is an expert on the product and the customer business needs
+scrum master - Acts as a buffer between the development team and distractions that might slow down the development effort
+
+Iterative development makes continous improvements possible because each new iteration involves a fresh start
+Because sprints happen over only a few weeks, project teams can incorporate process changes quickly
+A review process called the retrospective takes palce at the end of each iteration and gives all agile team members a 
+specific forum for identifying and planning actions for improvements
+
+The screm team applies the lessons it learns from the retrospective to the sprints that follow, whichthus become more productive
+
+Increased ROI opportunity
+
+Functionality is delivered to the marketplace earlier
+Product quickly is higher
+Revenue opportunity can be accelaerated
+Projects can self fund
+
+In agile projects  wasted time and features are reduced through a number of strategies, 
+
+Just in time elaboration - amplification of only the currently hightest proprity requirement means that time isnt 
+spent working on details for features that might never be developed
+
+customer and stakeholder p[articipation
+a bias for face-to-face conversation
+Built-in explotiation of changeEmphaisis on the eveidence of working functionality
+
+Part 2
+
+Being Agile
+
+Agile Approaches
+
+
+Agile is a descriptive term for a number of techniques and methods that have the following similarities:
+
+Development within multiple iterations called iterative developmentE
+Emphasis on simplicity , transparency and situation-specific stratergies
+Cross-functional, self-organizing teams
+working functionality as the measure of progress
+
+Empirical approach is braced by the following pillars
+Unfetted transparency
+Frequent Inspection
+Immediate Adaptation
+
+Agile has 3 characterssitics
+
+Lean pdt dvt- Eliminate waste, Learn from mistake, Allow scope for late decisions,Fast delivery,Team empowerment,build quality in,see the whole
+Kanban - visual signal
+Lean-kanban - method of removing waste to improve flow and throughput in a system
+				Visualize
+				Limit work in progress	
+				Manage flow
+				Make process policies explicit
+				Implement feedback loops
+				Improve collaboratively,evolve expirementally
+Scrum
+				Has its core the sprint
+				scrum teams use specific roles, artifacts and events,inspection and adaptation
+				
+				[Requirements->Product backing->Sprint planning -> Sprint-----[1-4 week] ] -> Sprint review ->Sprin retrospective
+												Sprint backing      <-------| [Daily]
+
+			--->Sprint planning meeting -> Sprint -> Sprint Review -> Sprint Retrospective -> -
+			|----------------------------------------------------------------------------------|
+
+I		Inspection and adaptation happens on a daily basis
+		Daily scrum meeting to organize the day by reveiwing what the team completed yesterday and coordinate what will work today
+		Sprint retrospective happens at the end of the sprint
+		
+		Scrum roles
+		Product owner - represents and speaks for the business needs of the prjoect
+		Development team - performs day to day work . 
+		Scrum masters - protect the team from organizational distractions, ensure scrum is played properly
+		
+		Stake holders -anyone who is affter by or has input on the project
+		Agile Mentor - an experienced outside authority on agile techniques and scrum framework. For outside point of view
+		Artifacts - 3 tangible deliverables
+					product backlog :- list of requirements that define the product .business value of the product from end user perspective
+										owned by product owner
+					sprint backlog: List of requirement and tasks in a given sprint
+									product owner and the developement team selects the requirements and breaks it down to tasks
+					product increment :- the usable potentially shippable functionality 
+										 a scrum project is complete after a product contains enough shippable functionality to 
+										 meet hte customer's business goals for the project
+		Finally scrum has 5 events
+		Sprint :- Term for iteration. short cycles no longer than a month, identify what it can do in each sprint based on previous sprint
+		Sprint Planning:-  scrum team decides which goal, scope and supporting tasks will be part of the sprint back-log
+		Daily scrum : - what the team member completed yesterday
+						what they will work on today
+						list of items impending the team member
+		Sprint review :- at the end of each sprint the development team demonstrates to the stake holders what is done. Get their review 
+						product owner updates the product backlog and consider the next Sprint goal
+		Sprint retrospective :- It is an internal team meeting in which the team members(product owner, development team and scrum master)
+								discuss what went well/wrong , improvements to be made
+		Scrum is simple 3 roles, 3 artifacts and 5 events
+		
+		
+Extreme programming
+				Focuses on customer satisfaction, develops features when customer needs them
+				New requests are part of devlopment teams daily routine
+		Coding is the core activity
+		XP teams do a lot of testing - start coding after designing unit tests
+									   a defect is a failure to define the right test
+	Communication between customer and programmer:
+		For complex systems , overall design is necessary
+		
+	XP pratice 				assumsption
+	Planning game			 all team members must be involved(development and technical)
+	Whoe team				 customer need to be colllocated
+	Coding standards 		standard code identifiers and naming conventions are 2 examples of coding standards
+	System methaphor		use simple terms to explain the system
+	Collective code ownership	whole team is responsible for the code
+	Sustainable pace	    no more than 40 hour work week
+	pair programming		one person is strategic(the diver) and the next is tactical (the navigator)
+	Design improvement		Continously improve code design by refactoring code
+	Simple design			simpler design lower the cost to change the code
+	Test-driven development	write automated customer acceptance and unit test
+	Contionus integration   Team members should be working from the latest code
+	Small releases			
+	
+		Similarities betweeen Lean Scrum and Extreme programming
+		Lean					Scrum  									XP
+		Engaging every one   Cross-functional dev team				Entire team collective ownership
+		
+		Optimizing the whole	product increment					Test driven development				
+																	Continous integration
+		Delivering fast			Sprints of four weeks or less		Small releases
+		
+		
+	scrum provides framework for many other agile tools and techniques 
+	Product vision statement,Product roadmap, velocity, release planning, User stories, Relative estimation, Swarming
+	swarming means cross - functional teams working together on one requirement at a time until completion to get the job done faster
+	
+	
+		
+Lean and Scrum focus on structure
+Extreme programming is more about development practices focus more on technical design, coding,testing and integration
+
+Waterfall methodology
+
+System requirment->Software requirement->Analysis->ProgramDesign->Coding->Testing->operations
+
+
+Page 81
+Agile environments in Actions
+
+
+
+
+
+
+
+
+
